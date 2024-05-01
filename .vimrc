@@ -5,6 +5,7 @@
 "
 "
 
+syntax on
 color elflord
 set noerrorbells
 set number
